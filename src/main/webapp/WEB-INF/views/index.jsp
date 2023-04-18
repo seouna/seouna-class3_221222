@@ -23,9 +23,9 @@
 		<h3><a href="BoardList.bo">글목록</a></h3>
 		<h3><a href="Main2.bo">샘플 메인페이지</a></h3>
 		<hr>
-		<h3><a href="FreeBoardList.bo2">자유게시판1</a></h3>
+		<h3><a href="FreeBoardList.bo2">자유게시판</a></h3>
 		<hr>
-		
+		<h3>test가 수정</h3>
 	</article>
 </body>
 </html>
